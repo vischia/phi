@@ -2,7 +2,7 @@
 
 # use .csh if using (t)c-shell
 
-/opt/intel/composerxe/bin/compilervars.sh intel64
+source /opt/intel/composerxe/bin/compilervars.sh intel64
 
 # This compilervars script runs tbbvars.sh and mklvars.sh, and it is discouraged to run those two by hand
 
